@@ -65,6 +65,7 @@
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | MySQL | Easy|
 | 1587 | Bank Account Summary II | MySQL | Easy|
 | 1633 | Percentage of Users Attended a Contest | MySQL | Easy|
+
 **LeetCode Shell's Solutions**
 | Id | Title | Solution | Difficulty
 |--|--|--| -- |
