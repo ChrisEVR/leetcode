@@ -31,6 +31,11 @@
 | 206 | Reverse Linked List | Java | Easy |
 | 217 | Contains Duplicate | Java | Easy |
 | 219 | Contains Duplicate II | Java | Easy |
+| 225 | Implement Stack using Queues | Java | Easy |
+| 231 | Power of Two | Java | Easy |
+| 232 | Implement Queue using Stacks | Java | Easy |
+| 234 | Palindrome Linked List | Java | Easy |
+| 242 | Valid Anagram | Java | Easy |
 
 **LeetCode Database's Solutions**
 | Id  | Title | Solution | Difficulty |
@@ -65,6 +70,11 @@
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | MySQL | Easy|
 | 1587 | Bank Account Summary II | MySQL | Easy|
 | 1633 | Percentage of Users Attended a Contest | MySQL | Easy|
+| 1661 | Average Time of Process per Machine | MySQL | Easy|
+| 1667 | Fix Names in a Table | MySQL | Easy|
+| 1683 | Invalid Tweets | MySQL | Easy|
+| 1693 | Daily Leads and Partners | MySQL | Easy|
+| 1729 | Find Followers Count | MySQL | Easy|
 
 **LeetCode Shell's Solutions**
 | Id | Title | Solution | Difficulty
