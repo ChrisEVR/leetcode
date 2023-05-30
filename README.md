@@ -36,6 +36,11 @@
 | 232 | Implement Queue using Stacks | Java | Easy |
 | 234 | Palindrome Linked List | Java | Easy |
 | 242 | Valid Anagram | Java | Easy |
+| 258 | Add Digits | Java | Easy |
+| 268 | Missing Number | Java | Easy |
+| 278 | First Bad Version | Java | Easy |
+| 326 | Power of Three | Java | Easy |
+| 338 | Counting Bits | Java | Easy |
 
 **LeetCode Database's Solutions**
 | Id  | Title | Solution | Difficulty |
