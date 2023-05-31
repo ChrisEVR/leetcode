@@ -41,6 +41,13 @@
 | 278 | First Bad Version | Java | Easy |
 | 326 | Power of Three | Java | Easy |
 | 338 | Counting Bits | Java | Easy |
+| 342 | Power of Four | Java | Easy |
+| 344 | Reverse String | Java | Easy |
+| 349 | Intersection of Two Arrays | Java | Easy |
+| 350 | Intersection of Two Arrays II | Java | Easy |
+| 367 | Valid Perfect Square | Java | Easy |
+| 374 | Guess Number Higher or Lower | Java | Easy |
+| 383 | Ransom Note | Java | Easy |
 
 **LeetCode Database's Solutions**
 | Id  | Title | Solution | Difficulty |
