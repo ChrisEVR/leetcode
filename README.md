@@ -48,6 +48,13 @@
 | 367 | Valid Perfect Square | Java | Easy |
 | 374 | Guess Number Higher or Lower | Java | Easy |
 | 383 | Ransom Note | Java | Easy |
+| 387 | First Unique Character in a String | Java | Easy |
+| 389 | Find the Difference | Java | Easy |
+| 392 | Is Subsequence | Java | Easy |
+| 409 | Longest Palindrome | Java | Easy |
+| 412 | Fizz Buzz | Java | Easy |
+| 414 | Third Maximum Number | Java | Easy |
+
 
 **LeetCode Database's Solutions**
 | Id  | Title | Solution | Difficulty |
