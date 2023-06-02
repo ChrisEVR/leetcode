@@ -54,6 +54,11 @@
 | 409 | Longest Palindrome | Java | Easy |
 | 412 | Fizz Buzz | Java | Easy |
 | 414 | Third Maximum Number | Java | Easy |
+| 434 | Number of Segments in a String | Java | Easy |
+| 441 | Arranging Coins | Java | Easy |
+| 448 | Find All Numbers Disappeared in an Array | Java | Easy |
+| 455 | Assign Cookies | Java | Easy |
+| 461 | Hamming Distance | Java | Easy |
 
 
 **LeetCode Database's Solutions**
